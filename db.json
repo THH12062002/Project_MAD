@@ -1,0 +1,276 @@
+{
+  "laptops": [
+    {
+      "id": 0,
+      "name": "Laptop Acer Helios NEO 2023",
+      "image1": "images/acer1.1.jpg",
+      "image2": "images/acer1.2.jpg",
+      "image3": "images/acer1.3.jpg",
+      "category": "Acer",
+      "label": "Hot Seller",
+      "price": "100.5",
+      "featured": true,
+      "description": "Powered by an Intel Core processor, it offers reliable performance for web browsing, office applications, and multimedia consumption."
+    },
+    {
+      "id": 1,
+      "name": "Laptop Acer Swift 3 SF314-512-56QN",
+      "image1": "images/acer2.1.png",
+      "image2": "images/acer2.2.jpg",
+      "image3": "images/acer2.3.jpg",
+      "category": "Acer",
+      "label": "",
+      "price": "80.5",
+      "featured": false,
+      "description": "Featuring a powerful Intel Core processor, this laptop is well-suited for productivity tasks, multitasking, and content creation."
+    },
+    {
+      "id": 2,
+      "name": "Laptop Asus ROG Zephyrus G16 GU603VU-N3898W",
+      "image1": "images/asus1.1.jpg",
+      "image2": "images/asus1.2.jpg",
+      "image3": "images/asus1.3.jpg",
+      "category": "Asus",
+      "label": "Hot Seller",
+      "price": "90.7",
+      "featured": false,
+      "description": "The Asus ROG Zephyrus S GX531GS-AH76 is a high-performance gaming laptop designed for enthusiasts seeking cutting-edge gaming capabilities in a portable form factor."
+    },
+    {
+      "id": 3,
+      "name": "Laptop ASUS TUF Gaming F15 FX506HC HN144W",
+      "image1": "images/asus2.1.png",
+      "image2": "images/asus2.2.png",
+      "image3": "images/asus2.3.png",
+      "category": "Asus",
+      "label": "Hot Seller",
+      "price": "99.9",
+      "featured": false,
+      "description": "Powered by an AMD Ryzen processor and featuring a dedicated NVIDIA GeForce graphics card, this laptop delivers strong gaming capabilities with smooth graphics and responsive gameplay."
+    }
+  ],
+  "comments": [
+    {
+      "id": 0,
+      "lapId": 0,
+      "rating": 5,
+      "comment": "The Intel Core processor handles multitasking smoothly, making it a great value for its price.",
+      "author": "John Lemon",
+      "date": "2023-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 1,
+      "lapId": 0,
+      "rating": 4,
+      "comment": "It looks modern and is surprisingly lightweight, making it easy to carry around.",
+      "author": "Paul McVites",
+      "date": "2023-09-05T17:57:28.556094Z"
+    },
+    {
+      "id": 2,
+      "lapId": 0,
+      "rating": 3,
+      "comment": "It's a practical laptop that does everything I need for work and entertainment without burning a hole in my pocket.",
+      "author": "Michael Jaikishan",
+      "date": "2023-02-13T17:57:28.556094Z"
+    },
+    {
+      "id": 3,
+      "lapId": 0,
+      "rating": 4,
+      "comment": "The 15.6-inch display is just right, offering clear visuals for both work and streaming. Enjoying the vibrant colors!",
+      "author": "Ringo Starry",
+      "date": "2023-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 4,
+      "lapId": 0,
+      "rating": 2,
+      "comment": "The keyboard is comfortable to type on, and I appreciate the tactile feedback. Great for long typing sessions.",
+      "author": "25 Cent",
+      "date": "2023-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 5,
+      "lapId": 1,
+      "rating": 5,
+      "comment": "The Intel Core processor in the Acer Swift 3 makes multitasking a breeze. Perfect for work and play.",
+      "author": "John Lemon",
+      "date": "2023-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 6,
+      "lapId": 1,
+      "rating": 4,
+      "comment": "Looks and feels premium without the hefty price tag.",
+      "author": "Paul McVites",
+      "date": "2023-09-05T17:57:28.556094Z"
+    },
+    {
+      "id": 7,
+      "lapId": 1,
+      "rating": 3,
+      "comment": "Clear, vibrant colors, and the 14-inch size strikes a perfect balance between portability and visual experience.",
+      "author": "Michael Jaikishan",
+      "date": "2023-02-13T17:57:28.556094Z"
+    },
+    {
+      "id": 8,
+      "lapId": 1,
+      "rating": 4,
+      "comment": "The key travel is just right for a comfortable typing experience.",
+      "author": "Ringo Starry",
+      "date": "2023-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 9,
+      "lapId": 1,
+      "rating": 2,
+      "comment": "I can go through an entire day of work without worrying about finding an outlet.",
+      "author": "25 Cent",
+      "date": "2023-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 10,
+      "lapId": 2,
+      "rating": 5,
+      "comment": "The design is sleek and modern, definitely stands out in the gaming laptop crowd.",
+      "author": "John Lemon",
+      "date": "2023-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 11,
+      "lapId": 2,
+      "rating": 4,
+      "comment": "The visuals are crisp, and the high frame rates make every gaming session immersive.",
+      "author": "Paul McVites",
+      "date": "2023-09-05T17:57:28.556094Z"
+    },
+    {
+      "id": 12,
+      "lapId": 2,
+      "rating": 3,
+      "comment": "The cooling system on the Zephyrus S is impressive, ensuring sustained performance during extended gaming sessions.",
+      "author": "Michael Jaikishan",
+      "date": "2023-02-13T17:57:28.556094Z"
+    },
+    {
+      "id": 13,
+      "lapId": 2,
+      "rating": 4,
+      "comment": "The aluminum chassis feels premium, and it seems robust enough to handle the demands of gaming.",
+      "author": "Ringo Starry",
+      "date": "2023-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 14,
+      "lapId": 2,
+      "rating": 2,
+      "comment": "As expected, battery life isn't the longest during gaming, but for regular use, it holds up well.",
+      "author": "25 Cent",
+      "date": "2023-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 15,
+      "lapId": 3,
+      "rating": 5,
+      "comment": "The TUF Gaming A15 packs a punch!",
+      "author": "John Lemon",
+      "date": "2023-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 16,
+      "lapId": 3,
+      "rating": 4,
+      "comment": "The visuals are sharp, and the size adds to the immersive gaming experience.",
+      "author": "Paul McVites",
+      "date": "2023-09-05T17:57:28.556094Z"
+    },
+    {
+      "id": 17,
+      "lapId": 3,
+      "rating": 3,
+      "comment": "The dual-fan cooling system does a great job of keeping temperatures in check during intense gaming sessions.",
+      "author": "Michael Jaikishan",
+      "date": "2023-02-13T17:57:28.556094Z"
+    },
+    {
+      "id": 18,
+      "lapId": 3,
+      "rating": 4,
+      "comment": "Love the RGB keyboard! It's not just eye candy; it's functional and customizable. Adds a cool gaming atmosphere to my setup.",
+      "author": "Ringo Starry",
+      "date": "2023-12-02T17:57:28.556094Z"
+    },
+    {
+      "id": 19,
+      "lapId": 3,
+      "rating": 2,
+      "comment": "Impressed with the variety of ports.",
+      "author": "25 Cent",
+      "date": "2023-12-02T17:57:28.556094Z"
+    }
+  ],
+  "promotions": [
+    {
+      "id": 0,
+      "name": "Asus ROG ZEPHYRUS S GX531GS-AH76",
+      "image1": "images/asus1.1.jpg",
+      "label": "New",
+      "price": "1000000",
+      "featured": true,
+      "description": "The laptop boasts a sleek design with the signature ROG aesthetics, incorporating advanced cooling solutions to handle demanding gaming sessions. "
+    }
+  ],
+  "leaders": [
+    {
+      "id": 0,
+      "name": "Tony Stark",
+      "image1": "images/leader1.jpg",
+      "designation": "Iron Man",
+      "abbr": "CEO",
+      "featured": false,
+      "description": "Iron Man is a fictional superhero in the Marvel Comics universe, created by writer and editor Stan Lee, developed by scripter Larry Lieber, and designed by artists Don Heck and Jack Kirby."
+    },
+    {
+      "id": 1,
+      "name": "Thor",
+      "image1": "images/leader2.jpg",
+      "designation": "The God of Thunder",
+      "abbr": "CFO",
+      "featured": true,
+      "description": "Thor is often referred to with various titles and honorifics that highlight his status as the God of Thunder and a prominent Asgardian warrior."
+    },
+    {
+      "id": 2,
+      "name": "Hulk",
+      "image1": "images/leader3.jpg",
+      "designation": "The Strongest Avenger",
+      "abbr": "CTO",
+      "featured": true,
+      "description": "The Hulk is often recognized as one of the most powerful members, leading to the description of him as the 'strongest Avenger'."
+    },
+    {
+      "id": 3,
+      "name": "Joker",
+      "image1": "images/leader4.jpg",
+      "designation": "The Clown Prince of Crime",
+      "abbr": "EC",
+      "featured": false,
+      "description": "This title emphasizes the Joker's association with chaos, crime, and his whimsical, clown-like persona."
+    }
+  ],
+  "feedback": [
+    {
+      "firstname": "fdas",
+      "lastname": "afds",
+      "telnum": "134113",
+      "email": "dafdads@daffas.dfdafd",
+      "agree": true,
+      "contactType": "Email",
+      "message": "afadsfds",
+      "date": "2017-12-04T09:41:49.890Z",
+      "id": 1
+    }
+  ]
+}
