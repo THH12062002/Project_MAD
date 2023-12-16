@@ -34,7 +34,7 @@
       "label": "Hot Seller",
       "price": "90.7",
       "featured": false,
-      "description": "The Asus ROG Zephyrus S GX531GS-AH76 is a high-performance gaming laptop designed for enthusiasts seeking cutting-edge gaming capabilities in a portable form factor."
+      "description": "The Asus ROG Zephyrus G16 GU603VU-N3898W is a high-performance gaming laptop designed for enthusiasts seeking cutting-edge gaming capabilities in a portable form factor."
     },
     {
       "id": 3,
@@ -214,10 +214,10 @@
   "promotions": [
     {
       "id": 0,
-      "name": "Asus ROG ZEPHYRUS S GX531GS-AH76",
-      "image1": "images/asus1.1.jpg",
+      "name": "Laptop Asus ROG Zephyrus G16 GU603VU-N3898W",
+      "image1": "images/asus1.1.png",
       "label": "New",
-      "price": "1000000",
+      "price": "90.6",
       "featured": true,
       "description": "The laptop boasts a sleek design with the signature ROG aesthetics, incorporating advanced cooling solutions to handle demanding gaming sessions. "
     }
