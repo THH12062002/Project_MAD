@@ -29,7 +29,7 @@
     {
       "id": 2,
       "name": "Laptop Asus ROG Zephyrus G16 GU603VU-N3898W",
-      "image1": "images/asus1.1.png",
+      "image1": "images/asus1.1nha.jpg",
       "image2": "images/asus1.2.png",
       "image3": "images/asus1.3.png",
       "category": "Asus",
@@ -218,12 +218,12 @@
   "promotions": [
     {
       "id": 0,
-      "name": "Laptop Asus ROG Zephyrus G16 GU603VU-N3898W",
-      "image1": "images/asus1.1.png",
+      "name": "Laptop ASUS TUF Gaming F15 FX506HC HN144W",
+      "image1": "images/asus2.1.png",
       "label": "New",
-      "price": "90.6",
+      "price": "99.8",
       "featured": true,
-      "description": "The laptop boasts a sleek design with the signature ROG aesthetics, incorporating advanced cooling solutions to handle demanding gaming sessions. "
+      "description": "Powered by an AMD Ryzen processor and featuring a dedicated NVIDIA GeForce graphics card, this laptop delivers strong gaming capabilities with smooth graphics and responsive gameplay."
     }
   ],
   "leaders": [
